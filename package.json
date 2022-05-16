@@ -1,0 +1,23 @@
+{
+  "name": "malawi_districts",
+  "version": "1.0.0",
+  "description": "details of malawi districts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenKamwaza/malawi_district_api.git"
+  },
+  "author": "Steven Kamwaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenKamwaza/malawi_district_api/issues"
+  },
+  "homepage": "https://github.com/StevenKamwaza/malawi_district_api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  }
+}
