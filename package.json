@@ -4,7 +4,9 @@
   "description": "details of malawi districts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "homepage": "https://github.com/StevenKamwaza/malawi_district_api#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "heroku": "^7.60.2",
     "joi": "^17.6.0"
   }
 }
