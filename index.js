@@ -10,7 +10,7 @@ const districts = {
         name : "Malawi",
         countryCode: "MW",
         fullName:"The Republic of Malawi",
-        oldName:"Nyasalanda",
+        oldName:"Nyasaland",
         nickName:"The Warm Heart of Africa",
         location: "Southeastern Africa",
         borderedCountries: ["Zambia","Tanzania","Mozambique"],
